@@ -3,8 +3,8 @@ Contributors: fpcorso
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RTGYAETX36ZQJ
 Tags: tip, tipbox, shortcode, help, hint, notice, alert
 Requires at least: 3.8.1
-Tested up to: 4.1
-Stable tag: 0.2.0
+Tested up to: 4.2
+Stable tag: 0.2.1
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds a shortcode to show a tip box
@@ -49,6 +49,8 @@ Feel free to use the support forums for this plugin or from the [My Local Websto
 1. Example Tip
 
 == Changelog ==
+= 0.2.1 (April 21, 2015)
+* Updated the plugin to be compatible with Wordpress 4.2
 
 = 0.2.0 (December 30, 2014) =
  * Added Color Attribute For Setting Tip Box Color
@@ -57,6 +59,8 @@ Feel free to use the support forums for this plugin or from the [My Local Websto
 * Initial Version
 
 == Upgrade Notice ==
+= 0.2.1 = 
+Upgrade to ensure compatibilty with Wordpress 4.2
 
 = 0.2.0 =
 Upgrade for the ability to set the tip box color using the shortcode
